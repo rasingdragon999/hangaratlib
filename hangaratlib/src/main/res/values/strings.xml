@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HangARatLib</string>
+    <string name="bluetooth_unable_to_conntect">Unable to connect with your Rat</string>
+</resources>
